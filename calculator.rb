@@ -12,8 +12,8 @@ end
 
 
 def difference()
-  diff = first_number - second_number
-  result diff
+  difference = first_number - second_number
+  result difference
 end
 
 
