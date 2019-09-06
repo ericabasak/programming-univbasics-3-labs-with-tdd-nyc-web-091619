@@ -1,4 +1,4 @@
 # Add your variables here
-def calculator(number)
-  puts 
-ends
+
+
+first_variable = "Hello world!"
