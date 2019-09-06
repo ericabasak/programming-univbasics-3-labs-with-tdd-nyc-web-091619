@@ -22,4 +22,9 @@ def product()
   result product
 end
 
-def 
+def quotient()
+  quotient = first_number / second_number
+  result quotient
+end
+
+
