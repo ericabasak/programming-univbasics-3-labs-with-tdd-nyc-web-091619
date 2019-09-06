@@ -5,10 +5,9 @@ first_number = 5
 
 second_number = 2
 
-def sum()
-  sum = first_number + second_number
-  result sum
-end
+sum = first_number + second_number
+result sum
+
 
 
 def difference()
