@@ -3,7 +3,7 @@
 
 first_number = 5
 
-second_number = "2"
+second_number = 2
 
 def sum1(num)
   sum = first_number + second_number
